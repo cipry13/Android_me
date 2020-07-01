@@ -20,3 +20,4 @@ App was built as part of Udacity's Advanced Android App Development - Lesson 2 -
 * Screen split in 3 different Fragmets: Head, Body, Legs
 * Change look when a body part is clicked (phone+tablet)
 * Select all 3 body parts then click next to see changes (phone)
+* Update the Android when a body part is clicked from the left menu (tablet)
